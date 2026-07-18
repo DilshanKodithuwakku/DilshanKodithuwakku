@@ -114,14 +114,12 @@ A deep-learning group project that applies NLP and sentiment-classification tech
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=DilshanKodithuwakku&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Dilshan's GitHub statistics"
+    src="https://img.shields.io/github/followers/DilshanKodithuwakku?label=Followers&style=for-the-badge"
+    alt="GitHub followers"
   />
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanKodithuwakku&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Dilshan's most-used languages"
+    src="https://img.shields.io/github/stars/DilshanKodithuwakku?affiliations=OWNER&style=for-the-badge"
+    alt="GitHub stars"
   />
 </p>
 
@@ -134,11 +132,10 @@ A deep-learning group project that applies NLP and sentiment-classification tech
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DilshanKodithuwakku&theme=tokyo-night"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DilshanKodithuwakku&theme=tokyo-night&hide_border=true"
     alt="Dilshan's GitHub activity graph"
   />
 </p>
-
 ---
 
 ## Let's Connect
