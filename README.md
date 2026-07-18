@@ -1,63 +1,141 @@
-<h1 align="center">Hi, I'm Dilshan 👋</h1>
-<h3 align="center">Final-Year Data Science Student · Aspiring AI/ML Engineer</h3>
+# <h1 align="center">Hi 👋, I'm Dilshan</h1>
+
+<h3 align="center">Final-Year Data Science Student • AI & Machine Learning Enthusiast • Building Intelligent Solutions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dkodithuwakku/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dkodithuwakku/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anjanadilshankodithuwakku@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Final-Year+Data+Science+Student;AI+%7C+Machine+Learning+%7C+NLP;Python+%7C+TensorFlow+%7C+PySpark;Building+Intelligent+Applications" />
 </p>
 
 ---
 
-### 🚀 About Me
+## About Me
 
-- 🎓 Final-Year Data Science Student | Aspiring AI & ML Engineer | NLP & Analytics | Google Cloud
-- 🏫 Studying at **Sri Lanka Technological Campus (SLTC)**
-- 🔭 Working on my Final Year Project — a **Cognitive-Aware Learning Analytics Framework**, combining Knowledge Tracing models (BKT, DKT, qDKT) with LLM-based skill extraction
-- 🌱 Interests: Machine Learning, NLP, Big Data, and applied AI systems
-- 💬 Ask me about: Python, PySpark, TensorFlow, SQL, or Google Cloud
-- 📫 Reach me on LinkedIn or via email above
+● Final-Year **BSc (Hons) Data Science** undergraduate at **Sri Lanka Technological Campus (SLTC)**
 
----
+● Passionate about **Artificial Intelligence, Machine Learning, Natural Language Processing, Big Data, and Learning Analytics**
 
-### 🛠️ Tech Stack
+● Currently working on my **Final Year Research Project**:
 
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-013243?style=flat&logo=scikitlearn&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-412991?style=flat&logo=openai&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F00?style=flat&logo=keras&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+> **Cognitive-Aware Learning Analytics Framework** that combines **Knowledge Tracing (BKT, DKT, qDKT)** with **LLM-based cognitive skill extraction** to generate personalized learning insights.
+
+● I enjoy building practical AI-powered applications that solve real-world problems.
+
+● Currently seeking opportunities to grow as an **AI / Machine Learning Engineer**.
 
 ---
 
-### 📌 Featured Projects
+## Tech Stack
 
-**[QuizServer](https://github.com/DilshanKodithuwakku/QuizServer)** — Offline, LAN-based quiz hosting app built with Electron.js, Node.js, Express, and Socket.IO. Team project (5 members) for CCS3360. Being extended with offline-first AI features (on-device DKT via ONNX, anomaly detection) as part of my FYP.
+### Languages
 
-**Cognitive-Aware Learning Analytics Framework** — My Final Year Project: a learning analytics system combining knowledge tracing (BKT, DKT, qDKT), cognitive diagnostic models, and LLM-based skill extraction for adaptive learning insights.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
-**Quiz Practice Buddy** — A Chrome extension (Manifest V3) study tool powered by the Groq API for fast, AI-assisted quiz practice.
+### AI & Data Science
 
-**Sinhala Sentiment Analysis** — Deep learning group project applying sentiment analysis techniques to Sinhala-language text.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-**Smart Hospital Queue Management System** — Full-stack queue management system with a Flutter mobile app and React admin panel, including MongoDB schema design and ER modeling.
+### Cloud & Development
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## Featured Projects
+
+### Cognitive-Aware Learning Analytics Framework *(Final Year Research)*
+
+* LLM-powered cognitive skill extraction
+* Knowledge Tracing (BKT, DKT, qDKT)
+* Adaptive learning analytics
+* Explainable student performance prediction
+
+---
+
+### Offline AI Quiz Platform
+
+An offline LAN-based quiz system built using **Electron.js**, **Node.js**, **Express**, and **Socket.IO**, designed for classroom environments with real-time communication and future AI-powered learning analytics.
+
+---
+
+### Smart Hospital Queue Management System
+
+A full-stack queue management system with:
+
+* Flutter mobile application
+* React admin dashboard
+* Firebase integration
+* QR-based token management
+* Queue monitoring
+
+---
+
+### Sinhala Sentiment Analysis
+
+Deep learning-based sentiment classification for Sinhala text using NLP techniques.
+
+---
+
+## Currently Learning
+
+* Large Language Models (LLMs)
+* Knowledge Tracing
+* Retrieval-Augmented Generation (RAG)
+* Explainable AI (XAI)
+* Deep Learning
+* Learning Analytics
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DilshanKodithuwakku&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanKodithuwakku&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DilshanKodithuwakku&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanKodithuwakku&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilshanKodithuwakku" />
+  <img src="https://streak-stats.demolab.com?user=DilshanKodithuwakku&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilshanKodithuwakku&theme=tokyo-night" />
+</p>
+
+---
+
+## Let's Connect
+
+**LinkedIn:** https://www.linkedin.com/in/dkodithuwakku/
+
+**Email:** [anjandilshankodithuwakku@gmail.com](mailto:anjanadilshankodithuwakku@gmail.com)
+
+**GitHub:** https://github.com/DilshanKodithuwakku
+
+---
+
+<p align="center">
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
